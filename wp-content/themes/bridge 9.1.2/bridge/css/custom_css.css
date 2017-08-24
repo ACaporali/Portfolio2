@@ -1,0 +1,22 @@
+
+
+.compteur{
+    text-align: center;
+}
+
+.compteur p.nb{
+    font-size: 60px;
+    line-height: 1em;
+    font-weight: 300;
+    color: #1abc9c;
+    display: inline-block!important;
+    height: 1em;
+}
+
+.compteur p.txt{
+        text-transform: uppercase;
+}
+
+.a-propos p{
+    color: #ffffff;
+}
