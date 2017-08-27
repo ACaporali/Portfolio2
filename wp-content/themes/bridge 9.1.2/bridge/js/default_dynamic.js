@@ -5,7 +5,7 @@ function ajaxSubmitCommentForm(){
 	var options = { 
 		success: function(){
 			$j("#commentform textarea").val("");
-			$j("#commentform .success p").text("Comment has been sent!");
+			$j("#commentform .success p").text("Le commentaire a &eacute;t&eacute; envoy&eacute;!");
 		}
 	}; 
 	
@@ -31,9 +31,9 @@ var logo_height = 130; // proya logo height
 var logo_width = 280; // proya logo width
 	header_top_height = 0;
 var loading_text;
-loading_text = 'Loading new posts...';
+loading_text = 'Cherger de nouveaux articles...';
 var finished_text;
-finished_text = 'No more posts';
+finished_text = 'Pas d&apos;autres articles';
 
 var piechartcolor;
 piechartcolor	= "#1abc9c";

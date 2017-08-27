@@ -1,5 +1,14 @@
 
 
+/*Header*/
+.logo_wrapper{ display: none; }
+
+.mobile_menu_button span{
+    font-size: 24px;
+}
+
+
+/*Div compteur*/
 .compteur{
     text-align: center;
 }
@@ -9,7 +18,7 @@
     line-height: 1em;
     font-weight: 300;
     color: #186621;
-    display: inline-block!important;
+    display: inline-block !important;
     height: 1em;
 font-weight: 400;
 }
@@ -20,4 +29,9 @@ font-weight: 400;
 
 .a-propos p{
     color: #ffffff;
+}
+
+/*Portfolio*/
+.portfolio_like  {
+     display: none !important;
 }
