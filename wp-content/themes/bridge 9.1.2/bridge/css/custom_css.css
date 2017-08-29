@@ -1,14 +1,19 @@
 
 
-/*Header*/
+/*---Header---*/
 .logo_wrapper{ display: none; }
 
 .mobile_menu_button span{
     font-size: 24px;
 }
 
+/*---competences---*/
+#competences li, #competences h3, #competences p{
+color: #ffffff;
+}
 
-/*Div compteur*/
+
+/*---Div compteur---*/
 .compteur{
     text-align: center;
 }
@@ -27,11 +32,19 @@ font-weight: 400;
         text-transform: uppercase;
 }
 
-.a-propos p{
-    color: #ffffff;
-}
 
-/*Portfolio*/
+/*---Portfolio---*/
 .portfolio_like  {
      display: none !important;
+}
+
+/*---A propose---*/
+section.parallax_section_holder {
+    background-position: center 0 !important;
+height: auto !important;
+}
+
+/*---Contact---*/
+#contact p{
+color: #ffffff;
 }
