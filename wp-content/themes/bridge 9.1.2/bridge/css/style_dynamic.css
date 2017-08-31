@@ -164,7 +164,7 @@ input.wpcf7-form-control.wpcf7-submit:not([disabled]),
     .woocommerce-page input[type="submit"]:hover,
 	.woocommerce .button:hover
 	{
-	 color: #186621; 
+	 color: #1e1e1e; 
 	 border-color: #ffffff	}
 
 	.qbutton:hover,

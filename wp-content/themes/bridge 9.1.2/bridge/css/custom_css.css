@@ -44,6 +44,10 @@ section.parallax_section_holder {
 height: auto !important;
 }
 
+.justify p{
+    text-align: justify !important;
+}
+
 /*---Contact---*/
 #contact p{
 color: #ffffff;
