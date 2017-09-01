@@ -179,6 +179,13 @@ input.wpcf7-form-control.wpcf7-submit:not([disabled]),
 	.woocommerce .button:hover
 	{
 		 background-color: #ffffff; 			}
+	.qbutton.white{
+
+		border-color: #ffffff; 			}
+	.qbutton.white:hover,
+	.portfolio_slides .hover_feature_holder_inner .qbutton:hover {
+
+		border-color: #186621; 		color: #1e1e1e; 		background-color: #186621; 	}
 
 
 

@@ -12,6 +12,13 @@
 color: #ffffff;
 }
 
+/*---Div titre---*/
+/*.photo{
+    -ms-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}*/
+
 
 /*---Div compteur---*/
 .compteur{
@@ -34,7 +41,7 @@ font-weight: 400;
 
 
 /*---Portfolio---*/
-.portfolio_like  {
+.portfolio_like, #realisations .lightbox {
      display: none !important;
 }
 
