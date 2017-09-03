@@ -45,6 +45,19 @@ font-weight: 400;
      display: none !important;
 }
 
+.back{
+border-color: #186621;
+    background-color: #186621;
+}
+
+.back:hover{
+border-color: #F6F6F6;
+    background-color: #F6F6F6;
+color: #186621;
+border-color: #186621;
+
+}
+
 /*---A propose---*/
 section.parallax_section_holder {
     background-position: center 0 !important;
